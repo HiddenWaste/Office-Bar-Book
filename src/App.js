@@ -62,7 +62,7 @@ const App = () => {
                     <div className="full-screen-slideshow">
                         <DrinkSlide drink={drinks[currentSlide]} />
                         <button onClick={exitSlideshow} className="exit-slideshow-button">
-                            Exit Slideshow
+                            ~
                         </button>
                     </div>
                 ) : (
