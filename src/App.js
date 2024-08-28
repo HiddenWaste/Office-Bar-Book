@@ -52,9 +52,9 @@ const App = () => {
     return (
         <div className="app">
             <header>
-                <h1>Drink Slideshow</h1>
+                <h1>The Office Bar and Grill Cocktails!!!</h1>
                 <button onClick={startSlideshow} className="start-slideshow-button">
-                    Start Full-Screen Slideshow
+                    (Restauraunt Slideshow)
                 </button>
             </header>
             <div className="slideshow">
