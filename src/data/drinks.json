@@ -1,0 +1,15 @@
+[
+{
+        "img_path": "images/sample-drink.jpg",
+        "name": "Maleficent",
+        "price": "$8.99",
+        "recipe": "Tall Glass\n 2 oz Malibu\n 1 oz Blue Curacao\n 1.5 oz Pineapple Juice\n 2oz Sprite\n Top With Grenadine\n Garnish with Orange"
+},
+{
+    "img_path": "images/sample-drink.jpg",
+    "name": "Bloody Mary",
+    "price": "$9.99",
+    "recipe": "Margherita Glass\n 2 oz Vodka\n 4-6 oz Blood Mary Mix\n Garnishes: Lemon, Lime, Beef Stick,\n Olive Spear, Pickle, Celery Seed, Asparagus"
+
+}
+]
