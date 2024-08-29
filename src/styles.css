@@ -28,7 +28,7 @@ header {
     align-items: center;        /* Center the content vertically */
     border: 1px solid #ddd;
     border-radius: 10px;
-    width: 600px;               /* Adjust width to fit your design */
+    width: 350px;               /* Adjust width to fit your design */
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -88,13 +88,32 @@ h2 {
 }
 
 .full-screen-slideshow .drink-slide {
+    justify-content: center;
+    align-items: center;
     width: 78%;
     height: 78%;
     margin: 20px;
     padding: 40px;
-    justify-content: center;
-    align-items: center;
+
 
     /* Adjust the content to fit the increased space */
     text-align: center;
+    font-size: 30px;
 }
+
+.full-screen-slideshow .drink-image {
+    width: 300px;
+    height: audto;
+    margin-right: 100;
+    padding-right: 100;
+}
+
+/* Grid layout for the homepage */
+.slideshow.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Responsive grid with minimum item width */
+    gap: 30px; /* Space between grid items */
+    padding: 20px;
+}
+
+/* The rest of your existing styles */

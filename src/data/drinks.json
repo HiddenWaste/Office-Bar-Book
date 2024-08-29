@@ -9,9 +9,9 @@
 {
     "img_path": "images/sample-drink.jpg",
     "name": "Bloody Mary",
-    "price": "$9.99",
-    "recipe": "Margherita Glass\n 2 oz Vodka\n 4-6 oz Blood Mary Mix\n Garnishes: Lemon, Lime, Beef Stick,\n Olive Spear, Pickle, Celery Seed, Asparagus",
-    "tags": ["Spicy"]
+    "price": "$8.95",
+    "recipe": "Margherita Glass\n 2 oz Vodka\n 4-6 oz Blood Mary Mix\n\n Garnishes: Lemon, Lime, Beef Stick, Olive Sword, Pickle, Celery Seed, Asparagus",
+    "tags": ["Spicy", "Staple"]
 
 },
 {
@@ -19,6 +19,83 @@
     "name": "Sweet Poison",
     "price": "$7.99",
     "recipe": "Short Glass (10 oz)\nBuild\n 1.5 oz Malibu\n 1 oz Blue Curacao\n Fill With Pineapple Juice\n Garnish with Lemon and Cherry",
-    "tags": ["Haloween", "Sweet"]
+    "tags": ["Haloween", "Sweet", "Tropical"]
+},
+{
+    "img_path": "images/sample-drink.jpg",
+    "name": "Hades' Lagoon",
+    "price": "$6.95",
+    "recipe": "Highball Glass\n Build\n 2oz Vodka\n Fill w/ Lemonade\n 1oz Blue Curacao on Top\n Garnish with Lemon",
+    "tags": []
+},
+{
+    "img_path": "images/sample-drink.jpg",
+    "name": "Bahama Mama",
+    "price": "$6.95",
+    "recipe": "Doubles Glass\n Shake\n 1oz Captain Morgan\n 1oz Malibu\n 1.5 oz Orange Juice\n 1.5 oz Pineapple Juice\n Shake then pour over ice\n Grenadine for colour\n Garnish with Orange",
+    "tags": ["Tropical", "Rum"]
+},
+{
+    "img_path":"images/sample-drink.jpg",
+    "name": "Snowed-In",
+    "price": "$6.95",
+    "recipe": "Doubles Glass\n 1.25 oz Malibu\n 0.5 oz Blue Curacao\n 2oz Sweet & Sour\n Top with sprite\n Garnish with Cherry",
+    "tags": ["Winter"]
+},
+{
+    "img_path":"images/sample-drink.jpg",
+    "name": "Irish Mint",
+    "price": "$6.95",
+    "recipe": "Rocks Glass\n 1oz Jameson\n 0.25oz Creme De Menthe\n 2oz Half n Half",
+    "tags": ["Winter", "St. Patty's"]
+},
+{
+    "img_path":"images/sample-drink.jpg",
+    "name": "Celtic Twilight",
+    "price": "$6.95",
+    "recipe": "Rocks Glass\n 1oz Baileys\n 1.5oz Jameson\n 0.5oz Kahlua",
+    "tags": ["St. Patty's"]
+},
+{
+    "img_path": "images/sample-drink.jpg",
+    "name": "Holy Water",
+    "price": "$6.95",
+    "recipe": "Tall Glass\n Shake\n 1oz Vodka\n 1oz Malibu\n 0.5oz Blue Curacao\n 2oz Lemonade\n 1oz Pineapple Juice",
+    "tags": []
+},
+{
+    "img_path": "images/sample-drink.jpg",
+    "name": "After Work Special",
+    "price": "$6.95",
+    "recipe": "Doubles Glass\n 3/4oz Captain White\n 3/4oz Malibu\n 3/4 oz Amaretto\n 2oz OJ\n 2oz Pineapple Juice",
+    "tags": ["Rum"]
+},
+{
+    "img_path": "images/sample-drink.jpg",
+    "name":"Drunken Leprachaun",
+    "price": "$6.95",
+    "recipe": "Tall Glass\n Build\n 2oz Jameson\n 1oz Blue Curacao\n Top w/ OJ, splash of pineapple\n Garnish w/ Cherry and Orange",
+    "tags": ["St. Patty's"]
+},
+{
+    "img_path": "images/sample-drink.jpg",
+    "name": "The Eleanor",
+    "price": "$6.95",
+    "recipe": "Doubles Glass\n Shake\n 2oz Malibu\n Splash Strawberry Puree\n 2oz Pineapple Juice\n Shake and Pour\n Splash of Grenadine\n Garnish with Cherry",
+    "tags": ["Sweet", "Tropical"]
+},
+{
+    "img_path": "images/sample-drink.jpg",
+    "name": "Old Fashioned",
+    "price": "$8.95",
+    "recipe": "Rocks Glass\n Sugar, Stemless Cherry\n Bitters, Simple Syrup, Orange Peel\n Muddle\n\n 2oz Bourbon\n (Smoke if desired)\n Garnish with Cherry",
+    "tags": ["Whiskey", "Staple"]
+},
+{
+    "img_path": "images/sample-drink.jpg",
+    "name": "Martini",
+    "price": "$6.95",
+    "recipe": "Martini Glass\n Shake\n 2oz Vodka\n 1oz Martini Rosso\n Pour no ice\n (Olive Juice for Dirty Martini)\n Garnish with Olive Sword",
+    "tags": ["Staple"]
 }
 ]
