@@ -10,6 +10,5 @@ while currently very much a prototype, I can already imagine I'm in a good posit
 
  - Full Screen Slideshow (WIP)
  - Grid style layout
-     - make searchable (N)
      - make filter able (N)
  - Form to add a new drink to the data (N)
